@@ -20,5 +20,5 @@ def find_the_cheese(cheesy)# code an argument here
   cheesy.find do |cheese|
     cheese_types.inclde? (cheese)
   end
-  
+
 end
